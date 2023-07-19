@@ -1,0 +1,27 @@
+
+{
+  "lastUpdate": "2023-07-19 00:01:00",
+  "items": [
+    {
+      "title": "Leite Fermentado Desnatado Adoçado YAKULT 480g com 6 Unidades",
+      "price": "10,90",
+      "img": "https://static.paodeacucar.com/img/uploads/1/400/579400.png",
+      "amount": 5,
+      "local": "Pão de Açúcar"
+    },
+    {
+      "title": "Entrecôte Filé de Costela Bovino Resfriado MONTANA 1,2kg",
+      "price": "59,88",
+      "img": "https://static.paodeacucar.com/img/uploads/1/714/12856714.jpg",
+      "amount": 2,
+      "local": "Pão de Açúcar"
+    },
+    {
+      "title": "Queijo Mussarela Qualitá Fatiado 150g",
+      "price": "8,99",
+      "img": "https://static.clubeextra.com.br/img/uploads/1/351/622351.png",
+      "amount": 5,
+      "local": "Extra"
+    }
+  ]
+}
